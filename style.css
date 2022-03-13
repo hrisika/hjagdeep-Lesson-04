@@ -1,0 +1,40 @@
+img{
+    width: 200px; 
+    height: 180px;
+    }
+    body {
+      width: 500px;
+      background-color: #000000;
+      margin:auto;
+      text-align: center;
+    }
+    p {
+      font-size: 15px;
+      color: white;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      padding: 20px;
+      margin-top:0px;
+    }
+    h1 {
+      font-size: 48px;
+      color: rgb(111, 0, 255);
+      font-family: 'Abril Fatface', serif;
+      font-weight: normal;
+    }
+    h2 {
+      font-size: 20px;
+      color: rgba(144, 219, 238, 0.685);
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-weight: bold;
+    }
+    
+    h2,h3,h4,h5,h6 {
+      margin-bottom:0;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      padding: 10px;
+    }
+    
+    img{
+      border-radius: 50%;
+    }
